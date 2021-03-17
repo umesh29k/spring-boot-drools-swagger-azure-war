@@ -1,6 +1,6 @@
+com/chubb/claims/azure/controller/WelcomeController.class
 com/chubb/claims/azure/config/Swag.class
 com/chubb/claims/azure/model/Product.class
 com/chubb/claims/azure/Application.class
-com/mkyong/WelcomeController.class
 com/chubb/claims/azure/controller/HomeController.class
 com/chubb/claims/azure/service/HomeService.class
